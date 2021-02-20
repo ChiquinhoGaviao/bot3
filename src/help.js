@@ -1,5 +1,5 @@
 const help = (prefix) => {
-	return `> *Sticker Commands* <
+	return `> *Comando de criar Figurinhas* <
 command : *${prefix}sticker* or *${prefix}stiker*
 desc : convert image/gif/video to sticker
 usage : reply image/gif/video, or send image/gif/video with caption\n
@@ -12,7 +12,7 @@ usage : reply sticker\n
 command : *${prefix}tsticker* or *${prefix}tstiker*
 desc : convert text to sticker
 usage : *${prefix}tsticker text in here*\n
-> *Meme Commands* <
+> *memes* <
 command : *${prefix}meme*
 desc : random meme images [english]
 usage : just send the command\n
