@@ -79,6 +79,8 @@ desc : Make bot leave the group
 usage : just send the command
 note : Can only be used by Group admins and Bot owner\n
 command : *${prefix}tagall*
+Se
+
 desc : tags all group members including admins too
 usage : just send the command
 note : This command can be used if you are a group admin\n
